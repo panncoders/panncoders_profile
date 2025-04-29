@@ -27,9 +27,9 @@ export default defineConfig({
             },
             includeAssets: ['logo.png'],
             manifest: {
-              name: 'Portfolio',
-              short_name: 'Portfolio',
-              description: 'Personal Portfolio',
+              name: 'panncoders porfolio',
+              short_name: 'panncoders',
+              description: 'learning coders',
               icons: [
                 {
                   src: 'logo.png',
