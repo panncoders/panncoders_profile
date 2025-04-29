@@ -1,10 +1,10 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "@panncoders/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "3.1.0",
   "type": "module",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "panncoders",
   "repository": {
     "type": "git",
     "url": "https://github.com/arifszn/gitprofile.git"
